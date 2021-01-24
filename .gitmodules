@@ -13,3 +13,6 @@
 [submodule "submodules/iob-timer"]
 	path = submodules/iob-timer
 	url = https://github.com/napoleonwar/iob-timer.git
+[submodule "submodules/TIMER"]
+	path = submodules/TIMER
+	url = https://github.com/napoleonwar/iob-timer.git
